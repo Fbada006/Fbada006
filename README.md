@@ -6,6 +6,8 @@ I have been working on Android for the past 2 years or so and I enjoy building b
 
 Follow my blog [here](https://effbada.hashnode.dev/) to stay updated with my articles on software development with a focus on android.
 
-Twitter: https://twitter.com/Ferdinand_Bada LinkedIn: https://www.linkedin.com/in/ferdinand-bada/
-Medium: https://medium.com/@ferdinandmarq 
+Let us connect:
+[Twitter](https://twitter.com/Ferdinand_Bada)
+[LinkedIn](https://www.linkedin.com/in/ferdinand-bada/)
+[Medium](https://medium.com/@ferdinandmarq)
 
